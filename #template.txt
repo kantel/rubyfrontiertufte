@@ -1,0 +1,10 @@
+<%= pageheader() %>
+<article>
+  
+  <h1 id="tufte-css"><%= title %></h1>
+  <p class="subtitle"><%= author %></p>
+
+  <p id="bodytext"></p>
+  
+</article>
+<%= pagefooter() %>

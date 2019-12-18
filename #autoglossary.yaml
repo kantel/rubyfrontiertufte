@@ -1,0 +1,8 @@
+---
+index: &1
+  :path: !ruby/object:Pathname
+    path: index.html
+  :adr: !ruby/object:Pathname
+    path: "/Users/admin/git/rubyfrontiertufte/index.txt"
+  :linetext: Tufte CSS
+tufte css: *1

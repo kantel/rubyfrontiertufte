@@ -1,0 +1,13 @@
+#title "Tufte CSS"
+
+<section>
+  <div class="epigraph">
+    <blockquote>
+      <p>Das Schlimme an diesem Internet ist, daß man nie weiß, ob die Zitate korrekt sind.</p>
+      <footer>Mark Twain</footer>
+    </blockquote>
+  </div>
+  <p>
+    Hallo Tufte CSS. Es gibt <i>Sidenotes</i><%= sidenotes("sn-demo") %> <span class="sidenote">Das ist eine <i>Sidenote</i>.</span>, die den Unterschied zwischen einem Druckerzeugnis und dem Web deutlich machen sollen. Es ist nämlich viel unbequemer im Web, nach unten auf einer Seite zu scrollen, um sich dann die Fußnote anzuschauen.</p>
+
+</section>
